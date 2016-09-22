@@ -24,6 +24,7 @@ coverage
 .lock-wscript
 
 #changes for other things
+#another vshot changes
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
