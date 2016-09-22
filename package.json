@@ -1,0 +1,28 @@
+{
+  "name": "imzclient-v1",
+  "version": "1.0.0",
+  "description": "client for imzah",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagrock/imzclient-v1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagrock/imzclient-v1/issues"
+  },
+  "homepage": "https://github.com/gagrock/imzclient-v1#readme",
+  "dependencies": {
+    "express": "4.14.0"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-livereload": "3.8.1",
+    "gulp-uglify": "2.0.0",
+    "gulp-watch": "4.3.9"
+  }
+}

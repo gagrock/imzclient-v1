@@ -1,0 +1,25 @@
+{
+  "name": "imzclient_v1",
+  "authors": [
+    "Irshad Ahmad Sheikh <irshsheikh@gmail.com>"
+  ],
+  "description": "v1 client for imzah",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "angular": "angularjs#^1.5.8",
+    "bootstrap": "^3.3.6",
+    "requirejs": "^2.2.0"
+  }
+}

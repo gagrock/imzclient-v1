@@ -1,0 +1,19 @@
+    <div  class= "row" >
+        
+          <div class="col-md-5">
+                
+              <input type="text" ng-model="name">{{name}}
+              <p>{{ message    }}</p>
+              
+          </div>
+          
+          <div class="col-md-5" >
+                
+             <ul>
+                <li ng-repeat="n in names |filter:name"> {{n}}</li>
+              </ul>
+            
+              
+          </div>
+      
+      </div>
